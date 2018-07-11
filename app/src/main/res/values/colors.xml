@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#f5f5f5</color>
+    <color name="colorSecondary">#2196f3</color>
+    <color name="colorSecondaryDark">#1e88e5</color>
+    <color name="colorAccent">#ff5722</color>
+    <color name="colorSnackbarButton">#ef3e1c</color>
+
+    <color name="colorDrawerIcons">#686868</color>
+    <color name="colorDrawerIconsChecked">#82acf7</color>
+
+    <color name="colorDrawerBackground">#ffffff</color>
+    <color name="colorDrawerBackgroundChecked">#2d76f9</color>
+
+</resources>
